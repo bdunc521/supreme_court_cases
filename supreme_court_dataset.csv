@@ -1,0 +1,271 @@
+date,docket,case_name,justice,pdf_url,word_count,page_count,dissent_mentions,concurrence_mentions,first_amend_mentions,fourth_amend_mentions,fifth_amend_mentions,sixth_amend_mentions,eigth_amend_mentions
+7/14/20,20A8,Barr v. Lee,PC,https://www.supremecourt.gov/opinions/19pdf/591us2r63_1bn2.pdf,2572,9,16,0,0,0,0,0,8
+7/09/20,17-1107,Sharp v. Murphy,PC,https://www.supremecourt.gov/opinions/19pdf/591us2r62_9o6b.pdf,662,3,1,0,0,0,0,0,0
+7/09/20,18-9526,McGirt v. Oklahoma,NG,https://www.supremecourt.gov/opinions/19pdf/591us2r61_c0nd.pdf,29833,84,98,0,0,0,0,0,0
+7/09/20,19-715,"Trump v. Mazars USA, LLP",R,https://www.supremecourt.gov/opinions/19pdf/591us2r60_lkgm.pdf,15165,47,39,5,0,1,1,0,0
+7/09/20,19-635,Trump v. Vance,R,https://www.supremecourt.gov/opinions/19pdf/591us2r59_g3bi.pdf,22304,63,47,9,0,0,0,3,0
+7/08/20,19-267,Our Lady of Guadalupe School v. Morrissey-Berru,A,https://www.supremecourt.gov/opinions/19pdf/591us2r58_e18f.pdf,18918,55,41,19,17,0,0,0,0
+7/08/20,19-431,Little Sisters of the Poor Saints Peter and Paul Home v. Pennsylvania,T,https://www.supremecourt.gov/opinions/19pdf/591us2r57_e2p3.pdf,26161,76,60,39,6,0,0,0,0
+7/06/20,19-518,Colorado Dept. of State v. Baca,PC,https://www.supremecourt.gov/opinions/19pdf/591us2r56_3d46.pdf,835,3,0,1,0,0,0,0,0
+7/06/20,19-631,"Barr v. American Assn. of Political Consultants, Inc.",BK,https://www.supremecourt.gov/opinions/19pdf/591us2r55_08m1.pdf,15259,46,14,28,46,0,0,0,0
+7/06/20,19-465,Chiafalo v. Washington,EK,https://www.supremecourt.gov/opinions/19pdf/591us2r54_2c8f.pdf,11253,33,13,18,0,0,0,0,0
+6/30/20,19-46,Patent and Trademark Office v. Booking.com B. V.,G,https://www.supremecourt.gov/opinions/19pdf/591us2r53_8n5a.pdf,9861,30,26,7,0,0,0,0,0
+6/30/20,18-1195,Espinoza v. Montana Dept. of Revenue,R,https://www.supremecourt.gov/opinions/19pdf/591us2r52_i426.pdf,29243,86,95,76,24,0,0,1,0
+6/29/20,19-177,Agency for Int’l Development v. Alliance for Open Society,BK,https://www.supremecourt.gov/opinions/19pdf/591us1r51_6khn.pdf,11083,35,31,4,80,2,1,1,0
+6/29/20,18-1323,June Medical Services L. L. C. v. Russo,B,https://www.supremecourt.gov/opinions/19pdf/591us1r50_q861.pdf,46094,132,133,72,4,0,0,1,0
+6/29/20,19-7,Seila Law LLC v. Consumer Financial Protection Bureau,R,https://www.supremecourt.gov/opinions/19pdf/591us1r49_6kg7.pdf,35876,103,54,23,0,0,0,0,0
+6/25/20,19-161,Department of Homeland Security v. Thuraissigiam,A,https://www.supremecourt.gov/opinions/19pdf/591us1r48_9o6b.pdf,34008,95,69,45,0,0,2,0,0
+6/22/20,18-1501,Liu v. SEC,SS,https://www.supremecourt.gov/opinions/19pdf/591us1r47_o759.pdf,11277,33,20,6,0,0,0,0,0
+6/18/20,18-587,Department of Homeland Security v. Regents of Univ. of Cal.,R,https://www.supremecourt.gov/opinions/19pdf/591us1r46_1o23.pdf,24032,71,29,21,0,0,4,0,0
+8/26/21,21A23,Alabama Assn. of Realtors v. Department of Health and Human Servs.,PC,https://www.supremecourt.gov/opinions/20pdf/594us2r68_b97d.pdf,5040,17,11,4,0,0,0,0,0
+7/02/21,20-1084,Dunn v. Reeves,PC,https://www.supremecourt.gov/opinions/20pdf/594us2r67_k537.pdf,9576,28,28,0,0,0,0,0,0
+7/01/21,19-1257,Brnovich v. Democratic National Committee,A,https://www.supremecourt.gov/opinions/20pdf/594us2r66_5468.pdf,30995,85,99,6,0,0,0,0,0
+7/01/21,19-251,Americans for Prosperity Foundation v. Bonta,R,https://www.supremecourt.gov/opinions/20pdf/594us2r65_2co3.pdf,17976,53,46,18,56,0,0,0,0
+6/29/21,20-440,"Minerva Surgical, Inc. v. Hologic, Inc.",EK,https://www.supremecourt.gov/opinions/20pdf/594us2r64_anbf.pdf,13123,37,47,0,0,0,0,0,0
+6/29/21,19-897,Johnson v. Guzman Chavez,A,https://www.supremecourt.gov/opinions/20pdf/594us2r63_4f15.pdf,12192,37,24,7,0,0,0,0,0
+6/29/21,19-1039,PennEast Pipeline Co. v. New Jersey,R,https://www.supremecourt.gov/opinions/20pdf/594us2r62_19m1.pdf,14292,42,38,3,0,0,3,0,0
+6/28/21,20-1212,Pakdel v. City and County of San Francisco,PC,https://www.supremecourt.gov/opinions/20pdf/594us2r61_7m58.pdf,2752,9,3,0,0,0,4,0,0
+6/28/21,20-391,Lombardo v. St. Louis,PC,https://www.supremecourt.gov/opinions/20pdf/594us2r60_2c83.pdf,3478,11,8,0,0,0,0,0,0
+6/25/21,20-297,TransUnion LLC v. Ramirez,BK,https://www.supremecourt.gov/opinions/20pdf/594us2r59_197d.pdf,18288,52,45,12,1,0,0,0,0
+6/25/21,20-472,"HollyFrontier Cheyenne Refining, LLC v. Renewable Fuels Assn.",NG,https://www.supremecourt.gov/opinions/20pdf/594us2r58_6537.pdf,10580,32,33,0,0,0,0,0,0
+6/25/21,20-543,Yellen v. Confederated Tribes of Chehalis Reservation,SS,https://www.supremecourt.gov/opinions/20pdf/594us2r57_4357.pdf,15360,45,22,2,0,0,0,0,0
+6/23/21,20-18,Lange v. California,EK,https://www.supremecourt.gov/opinions/20pdf/594us1r56_7k47.pdf,15654,44,3,49,0,33,0,0,0
+6/23/21,19-422,Collins v. Yellen,A,https://www.supremecourt.gov/opinions/20pdf/594us1r55_5468.pdf,26526,76,24,49,0,1,0,0,0
+6/23/21,20-255,Mahanoy Area School Dist. v. B. L.,B,https://www.supremecourt.gov/opinions/20pdf/594us1r54_k5gm.pdf,14803,41,17,32,34,0,0,0,0
+6/23/21,20-107,Cedar Point Nursery v. Hassid,R,https://www.supremecourt.gov/opinions/20pdf/594us1r53_0pm1.pdf,14245,42,41,4,0,1,5,0,0
+6/21/21,20-222,"Goldman Sachs Group, Inc. v. Arkansas Teacher Retirement System",AB,https://www.supremecourt.gov/opinions/20pdf/594us1r52_3e04.pdf,9171,27,10,5,0,0,0,0,0
+6/21/21,20-512,National Collegiate Athletic Assn. v. Alston,NG,https://www.supremecourt.gov/opinions/20pdf/594us1r51_7k47.pdf,14861,45,0,10,0,0,0,0,0
+6/21/21,19-1434,"United States v. Arthrex, Inc.",R,https://www.supremecourt.gov/opinions/20pdf/594us1r50_m6io.pdf,23145,69,66,15,0,0,0,0,0
+6/17/21,19-840,California v. Texas,B,https://www.supremecourt.gov/opinions/20pdf/593us2r49_c0nd.pdf,20140,58,64,17,0,0,0,0,0
+6/17/21,19-416,"Nestlé USA, Inc. v. Doe",T,https://www.supremecourt.gov/opinions/20pdf/593us2r48_p8k0.pdf,11101,32,8,20,0,0,0,0,0
+6/17/21,19-123,Fulton v. Philadelphia,R,https://www.supremecourt.gov/opinions/20pdf/593us2r47_8m59.pdf,38321,107,22,126,47,0,1,2,0
+6/14/21,19-8709,Greer v. United States,BK,https://www.supremecourt.gov/opinions/20pdf/593us2r46_1qm2.pdf,6727,20,7,4,0,0,0,0,0
+6/14/21,20-5904,Terry v. United States,T,https://www.supremecourt.gov/opinions/20pdf/593us2r45_5ifl.pdf,5945,18,0,5,0,0,0,0,0
+6/10/21,19-5410,Borden v. United States,EK,https://www.supremecourt.gov/opinions/20pdf/593us2r44_3eah.pdf,23762,67,89,13,0,0,0,0,0
+6/07/21,20-315,Sanchez v. Mayorkas,EK,https://www.supremecourt.gov/opinions/20pdf/593us2r43_22p3.pdf,3738,12,0,0,0,0,0,0,0
+6/03/21,19-783,Van Buren v. United States,AB,https://www.supremecourt.gov/opinions/20pdf/593us2r42_n7ip.pdf,12325,36,41,1,0,0,0,0,0
+6/01/21,19-1155,Garland v. Ming Dai,NG,https://www.supremecourt.gov/opinions/20pdf/593us2r41_9o6b.pdf,6020,18,2,0,0,0,0,0,0
+6/01/21,19-1414,United States v. Cooley,B,https://www.supremecourt.gov/opinions/20pdf/593us2r40_j5fl.pdf,4133,13,0,4,0,0,0,0,0
+5/27/21,20-334,"San Antonio v. Hotels.com, L. P.",A,https://www.supremecourt.gov/opinions/20pdf/593us2r39_j4el.pdf,5494,16,0,0,0,0,0,0,0
+5/24/21,20-437,United States v. Palomar-Santiago,SS,https://www.supremecourt.gov/opinions/20pdf/593us2r38_n648.pdf,3005,10,0,0,0,0,0,0,0
+5/24/21,20-382,Guam v. United States,T,https://www.supremecourt.gov/opinions/20pdf/593us2r37_1an2.pdf,4060,12,0,0,0,0,0,0,0
+5/17/21,19-5807,Edwards v. Vannoy,BK,https://www.supremecourt.gov/opinions/20pdf/593us1r36_j4ek.pdf,19913,56,47,48,0,1,0,18,0
+5/17/21,19-1189,BP p.l.c. v. Mayor and City Council of Baltimore,NG,https://www.supremecourt.gov/opinions/20pdf/593us1r35_i425.pdf,9170,26,13,2,0,0,0,0,0
+5/17/21,19-930,"CIC Servs., LLC v. IRS",EK,https://www.supremecourt.gov/opinions/20pdf/593us1r34_mlho.pdf,7414,22,3,9,0,0,0,0,0
+5/17/21,20-157,Caniglia v. Strom,T,https://www.supremecourt.gov/opinions/20pdf/593us1r33_4i29.pdf,5191,16,0,16,0,24,0,0,0
+4/29/21,19-863,Niz-Chavez v. Garland,NG,https://www.supremecourt.gov/opinions/20pdf/593us1r32_21o3.pdf,13507,40,47,0,0,0,0,0,0
+4/26/21,20-940,Alaska v. Wright,PC,https://www.supremecourt.gov/opinions/20pdf/593us1r31_g314.pdf,1166,4,0,1,0,0,0,2,0
+4/22/21,18-1259,Jones v. Mississippi,BK,https://www.supremecourt.gov/opinions/20pdf/593us1r30_4315.pdf,18831,55,51,21,0,0,0,2,29
+4/22/21,19-1442,Carr v. Saul,SS,https://www.supremecourt.gov/opinions/20pdf/593us1r29_b97c.pdf,5282,16,2,14,0,0,0,0,0
+4/22/21,19-508,"AMG Capital Management, LLC v. FTC",B,https://www.supremecourt.gov/opinions/20pdf/593us1r28_758b.pdf,5966,17,0,0,0,0,0,0,0
+4/09/21,20A151,Tandon v. Newsom,PC,https://www.supremecourt.gov/opinions/20pdf/593us1r27_o759.pdf,2021,7,6,3,2,0,0,0,0
+4/05/21,18-956,"Google LLC v. Oracle America, Inc.",B,https://www.supremecourt.gov/opinions/20pdf/593us1r26_f29g.pdf,20764,61,23,3,0,0,0,0,0
+4/01/21,"142, Orig.",Florida v. Georgia,AB,https://www.supremecourt.gov/opinions/20pdf/592us2r25_086c.pdf,3840,13,0,0,0,0,0,0,0
+4/01/21,19-1231,FCC v. Prometheus Radio Project,BK,https://www.supremecourt.gov/opinions/20pdf/592us2r24_19m2.pdf,6397,20,2,7,0,0,0,0,0
+4/01/21,19-511,"Facebook, Inc. v. Duguid",SS,https://www.supremecourt.gov/opinions/20pdf/592us2r23_1bn2.pdf,6598,20,0,9,0,0,0,0,0
+3/29/21,20-507,Mays v. Hines,PC,https://www.supremecourt.gov/opinions/20pdf/592us2r22_jgkn.pdf,3326,11,3,0,0,0,0,0,0
+3/25/21,19-368,Ford Motor Co. v. Montana Eighth Judicial Dist.,EK,https://www.supremecourt.gov/opinions/20pdf/592us2r21_p86a.pdf,12692,35,0,25,0,0,0,0,0
+3/25/21,19-292,Torres v. Madrid,R,https://www.supremecourt.gov/opinions/20pdf/592us2r20_o759.pdf,16314,46,47,1,0,53,0,0,0
+3/08/21,19-968,Uzuegbunam v. Preczewski,T,https://www.supremecourt.gov/opinions/20pdf/592us2r19_8mjp.pdf,9382,28,28,5,2,0,0,0,0
+3/04/21,19-547,"United States Fish and Wildlife Serv. v. Sierra Club, Inc.",AB,https://www.supremecourt.gov/opinions/20pdf/592us2r18_7l48.pdf,6221,19,10,0,0,0,0,0,0
+3/04/21,19-438,Pereida v. Wilkinson,NG,https://www.supremecourt.gov/opinions/20pdf/592us2r17_l537.pdf,12950,38,33,0,0,0,0,4,0
+2/25/21,19-546,Brownback v. King,T,https://www.supremecourt.gov/opinions/20pdf/592us2r16_1971.pdf,5244,16,0,7,0,1,0,0,0
+2/03/21,18-1447,Republic of Hungary v. Simon,PC,https://www.supremecourt.gov/opinions/20pdf/592us1r15_limp.pdf,448,3,0,0,0,0,0,0,0
+2/03/21,19-199,Salinas v. Railroad Retirement Bd.,SS,https://www.supremecourt.gov/opinions/20pdf/592us1r14_2co3.pdf,6655,20,8,1,0,0,0,0,0
+2/03/21,19-351,Federal Republic of Germany v. Philipp,R,https://www.supremecourt.gov/opinions/20pdf/592us1r13_m648.pdf,6545,20,1,2,0,0,0,0,0
+1/25/21,19-963,"Henry Schein, Inc. v. Archer & White Sales, Inc.",PC,https://www.supremecourt.gov/opinions/20pdf/592us1r12_l6gn.pdf,350,2,0,0,0,0,0,0,0
+1/14/21,19-357,Chicago v. Fulton,A,https://www.supremecourt.gov/opinions/20pdf/592us1r11_a7bf.pdf,4833,15,0,9,0,0,0,0,0
+12/18/20,20-366,Trump v. New York,PC,https://www.supremecourt.gov/opinions/20pdf/592us1r10_fd9g.pdf,10263,30,25,1,0,0,0,0,0
+12/14/20,19-1302,Shinn v. Kayer,PC,https://www.supremecourt.gov/opinions/20pdf/592us1r09_5368.pdf,4765,15,4,0,0,0,0,1,0
+12/14/20,"65, Orig.",Texas v. New Mexico,BK,https://www.supremecourt.gov/opinions/20pdf/592us1r08_i4dk.pdf,4670,14,2,2,0,0,0,0,0
+12/10/20,18-540,Rutledge v. Pharmaceutical Care Management Assn.,SS,https://www.supremecourt.gov/opinions/20pdf/592us1r07_jgko.pdf,6247,19,1,13,0,0,0,0,0
+12/10/20,19-108,United States v. Briggs,A,https://www.supremecourt.gov/opinions/20pdf/592us1r06_5ifl.pdf,3688,12,3,4,0,0,0,0,14
+12/10/20,19-309,Carney v. Adams,B,https://www.supremecourt.gov/opinions/20pdf/592us1r05_o7kq.pdf,5452,17,0,6,3,0,0,0,0
+12/10/20,19-71,Tanzin v. Tanvir,T,https://www.supremecourt.gov/opinions/20pdf/592us1r04_e29g.pdf,3509,11,0,0,4,1,0,0,0
+11/25/20,20A87,Roman Catholic Diocese of Brooklyn v. Cuomo,PC,https://www.supremecourt.gov/opinions/20pdf/592us1r03_7mip.pdf,10060,30,30,33,14,0,0,0,0
+11/02/20,19-1261,Taylor v. Riojas,PC,https://www.supremecourt.gov/opinions/20pdf/592us1r02_2c8f.pdf,2381,8,1,6,0,0,0,0,6
+11/02/20,19-1108,Mckesson v. Doe,PC,https://www.supremecourt.gov/opinions/20pdf/592us1r01_2924.pdf,2094,7,6,2,13,0,0,0,0
+6/30/22,21-954,Biden v. Texas,R,https://www.supremecourt.gov/opinions/21pdf/597us2r66_k537.pdf,19704,58,46,10,0,0,0,0,0
+6/30/22,20-1530,West Virginia v. EPA,R,https://www.supremecourt.gov/opinions/21pdf/597us2r65_5iel.pdf,31288,90,75,34,0,0,0,0,0
+6/29/22,21-429,Oklahoma v. Castro-Huerta,BK,https://www.supremecourt.gov/opinions/21pdf/597us2r64_5436.pdf,23853,70,66,23,0,0,0,0,0
+6/29/22,20-603,Torres v. Texas Department of Public Safety,B,https://www.supremecourt.gov/opinions/21pdf/597us2r63_m6ho.pdf,17693,51,44,4,0,0,0,0,0
+6/27/22,21-418,Kennedy v. Bremerton School Dist.,NG,https://www.supremecourt.gov/opinions/21pdf/597us2r62_d92h.pdf,25693,75,62,25,38,0,0,0,0
+6/27/22,20-1650,Concepcion v. United States,SS,https://www.supremecourt.gov/opinions/21pdf/597us2r61_7khn.pdf,9472,28,16,1,0,0,0,0,0
+6/27/22,20-1410,Xiulu Ruan v. United States,B,https://www.supremecourt.gov/opinions/21pdf/597us2r60_8oka.pdf,11044,33,3,24,0,0,0,0,0
+6/24/22,20-1312,"Becerra v. Empire Health Foundation, For Valley Hospital Medical Center",EK,https://www.supremecourt.gov/opinions/21pdf/597us1r59_i4dk.pdf,9050,28,11,0,0,0,0,0,0
+6/24/22,19-1392,Dobbs v. Jackson Women’s Health Organization,A,https://www.supremecourt.gov/opinions/21pdf/597us1r58_gebh.pdf,75813,211,178,126,6,4,8,5,2
+6/23/22,21-248,Berger v. North Carolina State Conference of the NAACP,NG,https://www.supremecourt.gov/opinions/21pdf/597us1r57_b0nd.pdf,12829,38,27,1,0,0,0,0,0
+6/23/22,21-439,Nance v. Ward,EK,https://www.supremecourt.gov/opinions/21pdf/597us1r56_p86b.pdf,7560,22,11,2,0,0,0,0,9
+6/23/22,21-499,Vega v. Tekoh,A,https://www.supremecourt.gov/opinions/21pdf/597us1r55_8m58.pdf,9279,27,17,5,0,2,33,0,0
+6/23/22,20-843,"New York State Rifle & Pistol Assn., Inc. v. Bruen",T,https://www.supremecourt.gov/opinions/21pdf/597us1r54_7648.pdf,48440,135,115,29,10,3,0,2,0
+6/21/22,20-1641,Marietta Memorial Hospital Employee Health Benefit Plan v. DaVita Inc.,BK,https://www.supremecourt.gov/opinions/21pdf/596us2r53_l6h1.pdf,3969,14,9,1,0,0,0,0,0
+6/21/22,20-1459,United States v. Taylor,NG,https://www.supremecourt.gov/opinions/21pdf/596us2r52_886a.pdf,12741,37,44,10,0,0,0,6,0
+6/21/22,21-404,United States v. Washington,B,https://www.supremecourt.gov/opinions/21pdf/596us2r51_6479.pdf,4500,15,0,1,0,0,0,0,0
+6/21/22,21-511,Shoop v. Twyford,R,https://www.supremecourt.gov/opinions/21pdf/596us2r50_2034.pdf,7732,23,15,0,0,0,0,0,0
+6/21/22,20-1088,Carson v. Makin,R,https://www.supremecourt.gov/opinions/21pdf/596us2r49_7l48.pdf,15544,46,54,6,12,0,0,0,0
+6/15/22,20-1775,Arizona v. City and County of San Francisco,PC,https://www.supremecourt.gov/opinions/21pdf/596us2r48_fe9g.pdf,1499,6,0,5,0,0,0,0,0
+6/15/22,21-234,George v. McDonough,AB,https://www.supremecourt.gov/opinions/21pdf/596us2r47_m6hn.pdf,8492,25,22,0,0,0,0,0,0
+6/15/22,20-1114,American Hospital Assn. v. Becerra,BK,https://www.supremecourt.gov/opinions/21pdf/596us2r46_bqm1.pdf,5496,18,3,0,0,0,0,0,0
+6/15/22,20-493,Ysleta del Sur Pueblo v. Texas,NG,https://www.supremecourt.gov/opinions/21pdf/596us2r45_3d46.pdf,14010,41,29,0,0,0,0,0,0
+6/15/22,20-1034,Golan v. Saada,SS,https://www.supremecourt.gov/opinions/21pdf/596us2r44_6j37.pdf,6871,21,0,2,0,0,0,0,0
+6/15/22,20-1573,"Viking River Cruises, Inc. v. Moriana",A,https://www.supremecourt.gov/opinions/21pdf/596us2r43_gn0f.pdf,10062,29,5,7,0,0,0,0,0
+6/13/22,21-401,"ZF Automotive U. S., Inc. v. Luxshare, Ltd.",AB,https://www.supremecourt.gov/opinions/21pdf/596us2r42_3f14.pdf,7101,22,0,0,0,0,0,0,0
+6/13/22,20-7622,Denezpi v. United States,AB,https://www.supremecourt.gov/opinions/21pdf/596us2r41_2924.pdf,9794,30,27,1,0,0,2,0,0
+6/13/22,19-896,Johnson v. Arteaga-Martinez,SS,https://www.supremecourt.gov/opinions/21pdf/596us2r40_2d93.pdf,6045,20,5,11,0,0,2,0,0
+6/13/22,20-322,Garland v. Gonzalez,A,https://www.supremecourt.gov/opinions/21pdf/596us2r39_7l48.pdf,10625,32,14,7,0,0,0,0,0
+6/13/22,21-5726,Kemp v. United States,T,https://www.supremecourt.gov/opinions/21pdf/596us2r38_e29f.pdf,5039,17,5,2,0,0,0,0,0
+6/08/22,21-147,Egbert v. Boule,T,https://www.supremecourt.gov/opinions/21pdf/596us1r37_7l48.pdf,16132,48,14,22,22,29,4,0,5
+6/06/22,21-441,Siegel v. Fitzgerald,SS,https://www.supremecourt.gov/opinions/21pdf/596us1r36_k5fl.pdf,6293,20,0,0,0,0,0,0,0
+6/06/22,21-309,Southwest Airlines Co. v. Saxon,T,https://www.supremecourt.gov/opinions/21pdf/596us1r35_664c.pdf,5209,16,0,0,0,0,0,0,0
+6/06/22,20-1263,Gallardo v. Marstiller,T,https://www.supremecourt.gov/opinions/21pdf/596us1r34_c9dh.pdf,10480,32,24,0,0,0,0,0,0
+5/23/22,21-328,"Morgan v. Sundance, Inc.",EK,https://www.supremecourt.gov/opinions/21pdf/596us1r33_a86c.pdf,3484,11,2,0,0,0,0,0,0
+5/23/22,20-1009,Shinn v. Martinez Ramirez,T,https://www.supremecourt.gov/opinions/21pdf/596us1r32_e29g.pdf,15461,47,36,0,0,0,0,10,0
+5/16/22,20-979,Patel v. Garland,AB,https://www.supremecourt.gov/opinions/21pdf/596us1r31_5367.pdf,13064,40,25,1,0,0,0,0,0
+5/16/22,21-12,Federal Election Comm’n v. Ted Cruz,R,https://www.supremecourt.gov/opinions/21pdf/596us1r30_o759.pdf,13810,41,22,2,29,0,0,0,0
+5/02/22,20-1800,Shurtleff v. Boston,B,https://www.supremecourt.gov/opinions/21pdf/596us1r29_j3ko.pdf,16033,49,12,51,33,0,0,0,0
+4/28/22,20-807,LeDure v. Union Pacific Railroad Co.,PC,https://www.supremecourt.gov/opinions/21pdf/596us1r28_6j36.pdf,435,3,0,0,0,0,0,0,0
+4/28/22,20-219,Cummings v. Premier Rehab Keller,R,https://www.supremecourt.gov/opinions/21pdf/596us1r27_5i36.pdf,10500,32,20,8,0,0,0,0,0
+4/21/22,20-1472,Boechler v. Commissioner,AB,https://www.supremecourt.gov/opinions/21pdf/596us1r26_o6p1.pdf,4695,15,0,0,0,0,0,0,0
+4/21/22,20-303,United States v. Vaello Madero,BK,https://www.supremecourt.gov/opinions/21pdf/596us1r25_bpm1.pdf,14355,42,26,37,1,0,14,1,1
+4/21/22,20-826,Brown v. Davenport,NG,https://www.supremecourt.gov/opinions/21pdf/596us1r24_9p6b.pdf,15320,43,43,11,0,0,0,0,0
+4/21/22,20-1566,Cassirer v. Thyssen-Bornemisza Collection Foundation,EK,https://www.supremecourt.gov/opinions/21pdf/596us1r23_heim.pdf,4129,13,0,0,0,0,0,0,0
+4/21/22,20-1029,"City of Austin v. Reagan National Advertising of Austin, LLC",SS,https://www.supremecourt.gov/opinions/21pdf/596us1r22_4315.pdf,16063,48,45,27,41,0,0,0,0
+4/04/22,20-659,Thompson v. Clark,BK,https://www.supremecourt.gov/opinions/21pdf/596us1r21_5f57.pdf,8818,27,16,11,0,65,0,0,0
+3/31/22,20-1143,Badgerow v. Walters,EK,https://www.supremecourt.gov/opinions/21pdf/596us1r20_f2ag.pdf,12414,37,27,3,0,0,0,0,0
+3/24/22,20-804,Houston Community College System v. Wilson,NG,https://www.supremecourt.gov/opinions/21pdf/595us2r19_8n59.pdf,5673,18,1,3,36,0,0,0,0
+3/24/22,21-5592,Ramirez v. Collier,R,https://www.supremecourt.gov/opinions/21pdf/595us2r18_a86c.pdf,19974,59,33,20,8,0,0,0,0
+3/23/22,21A471,Wisconsin Legislature v. Wisconsin Elections Commission,PC,https://www.supremecourt.gov/opinions/21pdf/595us2r17_nko1.pdf,4714,15,11,1,0,0,0,0,0
+3/07/22,20-5279,Wooden v. United States,EK,https://www.supremecourt.gov/opinions/21pdf/595us2r16_d1pf.pdf,14062,40,3,43,0,0,0,2,0
+3/04/22,20-828,FBI v. Fazaga,A,https://www.supremecourt.gov/opinions/21pdf/595us2r15_l537.pdf,5759,18,0,0,0,1,1,0,0
+3/04/22,20-443,United States v. Tsarnaev,T,https://www.supremecourt.gov/opinions/21pdf/595us2r14_l64n.pdf,14666,44,42,11,0,3,0,2,9
+3/03/22,20-601,"Cameron v. EMW Women’s Surgical Center, P. S. C.",A,https://www.supremecourt.gov/opinions/21pdf/595us2r13_n7io.pdf,12689,37,20,14,0,0,0,0,0
+3/03/22,20-827,United States v. Zubaydah,B,https://www.supremecourt.gov/opinions/21pdf/595us2r12_1a72.pdf,24260,74,48,19,0,0,0,0,0
+2/24/22,20-915,"Unicolors, Inc. v. H&M Hennes & Mauritz, L. P.",B,https://www.supremecourt.gov/opinions/21pdf/595us2r11_4f14.pdf,5910,19,12,0,0,0,0,0,0
+1/24/22,19-1401,Hughes v. Northwestern Univ.,SS,https://www.supremecourt.gov/opinions/21pdf/595us1r10_4hdj.pdf,2909,10,0,0,0,0,0,0,0
+1/20/22,20-637,Hemphill v. New York,SS,https://www.supremecourt.gov/opinions/21pdf/595us1r9_5iek.pdf,10799,32,19,5,1,1,4,23,0
+1/13/22,21A244,NFIB v. OSHA,PC,https://www.supremecourt.gov/opinions/21pdf/595us1r8_8o6a.pdf,10536,33,28,10,0,0,0,0,0
+1/13/22,21A240,Biden v. Missouri,PC,https://www.supremecourt.gov/opinions/21pdf/595us1r7_4315.pdf,7515,24,19,2,0,0,0,0,0
+1/13/22,20-480,Babcock v. Kijakazi,AB,https://www.supremecourt.gov/opinions/21pdf/595us1r6_ihdk.pdf,3561,12,5,0,0,0,0,0,0
+12/10/21,21-588 (21A85),United States v. Texas,PC,https://www.supremecourt.gov/opinions/21pdf/595us1r5_d1oe.pdf,1028,5,1,0,0,0,0,0,0
+12/10/21,21-463,Whole Woman’s Health v. Jackson,NG,https://www.supremecourt.gov/opinions/21pdf/595us1r4_0861.pdf,16458,46,17,15,1,0,0,0,0
+11/22/21,"143, Orig.",Mississippi v. Tennessee,R,https://www.supremecourt.gov/opinions/21pdf/595us1r3_n758.pdf,5073,17,0,0,0,0,0,0,0
+10/18/21,20-1668,City of Tahlequah v. Bond,PC,https://www.supremecourt.gov/opinions/21pdf/595us1r2_8njq.pdf,2171,8,0,0,0,10,0,0,0
+10/18/21,20-1539,Rivas-Villegas v. Cortesluna,PC,https://www.supremecourt.gov/opinions/21pdf/595us1r1_mkhn.pdf,2616,10,1,0,0,1,0,0,0
+6/30/23,21-476,303 Creative LLC v. Elenis,NG,https://www.supremecourt.gov/opinions/22pdf/600us1r58_7khn.pdf,26481,73,97,10,79,0,1,0,0
+6/30/23,22-535,Department of Education v. Brown,A,https://www.supremecourt.gov/opinions/22pdf/600us1r57_o7kq.pdf,6666,21,0,0,0,0,0,0,0
+6/30/23,22-506,Biden v. Nebraska,R,https://www.supremecourt.gov/opinions/22pdf/600us1r56_1o13.pdf,26437,76,70,21,5,0,0,0,0
+6/29/23,22-174,Groff v. DeJoy,A,https://www.supremecourt.gov/opinions/22pdf/600us1r55_3dq4.pdf,11187,32,16,8,1,0,0,0,0
+6/29/23,21-1043,"Abitron Austria GmbH v. Hetronic Int’l, Inc.",A,https://www.supremecourt.gov/opinions/22pdf/600us1r54_g3bi.pdf,12809,37,0,27,0,0,0,0,0
+6/29/23,20-1199,"Students for Fair Admissions, Inc. v. President and Fellows of Harvard College",R,https://www.supremecourt.gov/opinions/22pdf/600us1r53_4g15.pdf,81868,233,223,161,2,2,0,0,0
+6/27/23,21-1168,Mallory v. Norfolk Southern R. Co,NG,https://www.supremecourt.gov/opinions/22pdf/600us1r52_7l48.pdf,21108,61,46,38,0,0,0,0,0
+6/27/23,22-138,Counterman v. Colorado,EK,https://www.supremecourt.gov/opinions/22pdf/600us1r51_g3bi.pdf,19714,58,49,27,91,0,0,0,0
+6/27/23,21-1271,Moore v. Harper,R,https://www.supremecourt.gov/opinions/22pdf/600us1r50_h3ci.pdf,23760,67,46,12,0,0,0,0,0
+6/23/23,22-179,United States v. Hansen,AB,https://www.supremecourt.gov/opinions/22pdf/599us1r49_jgkn.pdf,17811,53,34,14,25,0,0,0,0
+6/23/23,22-105,"Coinbase, Inc. v. Bielski",BK,https://www.supremecourt.gov/opinions/22pdf/599us1r48_986b.pdf,9417,28,18,1,0,0,0,0,0
+6/23/23,22-58,United States v. Texas,BK,https://www.supremecourt.gov/opinions/22pdf/599us1r47_8m58.pdf,23440,68,40,54,1,0,0,0,0
+6/23/23,22-196,Samia v. United States,T,https://www.supremecourt.gov/opinions/22pdf/599us1r46_dc8f.pdf,12426,37,20,7,0,0,1,14,0
+6/22/23,22-23,Pugin v. Garland,BK,https://www.supremecourt.gov/opinions/22pdf/599us1r45_6537.pdf,12535,37,26,9,0,0,0,0,0
+6/22/23,21-1484,Arizona v. Navajo Nation,BK,https://www.supremecourt.gov/opinions/22pdf/599us1r44_54l8.pdf,16271,47,30,7,0,0,0,0,0
+6/22/23,22-381,Yegiazaryan v. Smagin,SS,https://www.supremecourt.gov/opinions/22pdf/599us1r43_jhek.pdf,7672,24,12,0,0,0,0,0,0
+6/22/23,21-857,Jones v. Hendrix,T,https://www.supremecourt.gov/opinions/22pdf/599us1r42_2b35.pdf,24760,70,54,8,0,0,0,0,4
+6/16/23,22-49,Lora v. United States,KJ,https://www.supremecourt.gov/opinions/22pdf/599us1r41_2bo2.pdf,3859,14,0,23,0,0,0,0,0
+6/16/23,21-1052,"United States ex rel. Polansky v. Executive Health Resources, Inc.",EK,https://www.supremecourt.gov/opinions/22pdf/599us1r40_q8l1.pdf,12335,36,24,5,0,0,0,0,0
+6/15/23,22-227,Lac du Flambeau Band of Lake Superior Chippewa Indians v. Coughlin,KJ,https://www.supremecourt.gov/opinions/22pdf/599us1r39_3204.pdf,12607,39,38,13,0,0,0,0,0
+6/15/23,21-376,Haaland v. Brackeen,AB,https://www.supremecourt.gov/opinions/22pdf/599us1r38_khmp.pdf,44664,129,62,57,0,0,0,0,0
+6/15/23,21-1576,Smith v. United States,A,https://www.supremecourt.gov/opinions/22pdf/599us1r37_8m59.pdf,7272,21,0,1,0,0,0,4,0
+6/08/23,21-806,Health and Hospital Corporation of Marion Cty. v. Talevski,KJ,https://www.supremecourt.gov/opinions/22pdf/599us1r36_feah.pdf,24960,72,57,19,0,0,0,0,0
+6/08/23,22-148,"Jack Daniel’s Properties, Inc. v. VIP Products LLC",EK,https://www.supremecourt.gov/opinions/22pdf/599us1r35_3f14.pdf,8979,28,0,9,14,0,0,0,0
+6/08/23,22-10,Dubin v. United States,SS,https://www.supremecourt.gov/opinions/22pdf/599us1r34_p86b.pdf,11033,32,3,18,0,0,0,0,0
+6/08/23,21-1086,Allen v. Milligan,R,https://www.supremecourt.gov/opinions/22pdf/599us1r33_dc8f.pdf,37802,111,111,33,0,0,0,0,0
+6/01/23,21-1449,"Glacier Northwest, Inc. v. Teamsters",AB,https://www.supremecourt.gov/opinions/22pdf/598us2r32_ca7d.pdf,15926,47,32,13,0,0,0,0,0
+6/01/23,22-200,"Slack Technologies, LLC v. Pirani",NG,https://www.supremecourt.gov/opinions/22pdf/598us2r31_5h26.pdf,4742,14,2,0,0,0,0,0,0
+6/01/23,21-1326,United States ex rel. Schutte v. Supervalu Inc.,T,https://www.supremecourt.gov/opinions/22pdf/598us2r30_g2bh.pdf,7008,22,0,0,0,0,0,0,0
+5/25/23,22-210,Dupree v. Younger,AB,https://www.supremecourt.gov/opinions/22pdf/598us2r29_k5fm.pdf,3832,12,0,2,0,0,0,0,0
+5/25/23,21-454,Sackett v. EPA,A,https://www.supremecourt.gov/opinions/22pdf/598us2r28_hgcj.pdf,27911,80,5,72,0,0,0,0,0
+5/25/23,22-166,Tyler v. Hennepin County,R,https://www.supremecourt.gov/opinions/22pdf/598us2r27_aplc.pdf,7472,22,0,5,0,0,7,0,4
+5/22/23,22-714,Calcutt v. FDIC,PC,https://www.supremecourt.gov/opinions/22pdf/598us2r26_feag.pdf,2876,10,0,0,0,0,0,0,0
+5/18/23,21-1333,Gonzalez v. Google LLC,PC,https://www.supremecourt.gov/opinions/22pdf/598us2r25_i32j.pdf,2882,8,0,0,1,0,0,0,0
+5/18/23,21-757,Amgen Inc. v. Sanofi,NG,https://www.supremecourt.gov/opinions/22pdf/598us2r24_m6hn.pdf,8732,25,0,0,0,0,0,0,0
+5/18/23,21-869,"Andy Warhol Foundation for Visual Arts, Inc. v. Goldsmith",SS,https://www.supremecourt.gov/opinions/22pdf/598us2r23_c0n2.pdf,29239,88,87,14,0,0,0,0,0
+5/18/23,21-1496,"Twitter, Inc. v. Taamneh",T,https://www.supremecourt.gov/opinions/22pdf/598us2r22_hejm.pdf,13323,39,0,3,1,0,0,0,0
+5/18/23,21-1454,Ohio Adjutant General’s Dept. v. FLRA,T,https://www.supremecourt.gov/opinions/22pdf/598us2r21_5425.pdf,7439,24,13,1,0,0,0,0,0
+5/18/23,21-1599,Polselli v. IRS,R,https://www.supremecourt.gov/opinions/22pdf/598us2r20_b07d.pdf,6086,19,1,6,0,0,0,0,0
+5/11/23,21-1436,Santos-Zacaria v. Garland,KJ,https://www.supremecourt.gov/opinions/22pdf/598us2r19_dc8f.pdf,7307,23,0,2,0,0,0,0,0
+5/11/23,21-468,National Pork Producers Council v. Ross,NG,https://www.supremecourt.gov/opinions/22pdf/598us2r18_g2bh.pdf,19911,57,27,28,0,1,0,0,0
+5/11/23,22-96,"Financial Oversight and Management Bd. for P. R. v. Centro De Periodismo Investigativo, Inc.",EK,https://www.supremecourt.gov/opinions/22pdf/598us2r17_c0nd.pdf,6105,19,11,0,0,1,0,0,0
+5/11/23,21-1158,Percoco v. United States,A,https://www.supremecourt.gov/opinions/22pdf/598us2r16_4gdj.pdf,7003,22,5,11,1,0,0,0,0
+5/11/23,21-1170,Ciminelli v. United States,T,https://www.supremecourt.gov/opinions/22pdf/598us2r15_d1o2.pdf,4456,15,0,4,0,0,0,0,0
+4/19/23,21-1270,MOAC Mall Holdings LLC v. Transform Holdco LLC,KJ,https://www.supremecourt.gov/opinions/22pdf/598us1r14_3e04.pdf,6496,20,0,0,0,0,0,0,0
+4/19/23,21-1450,Turkiye Halk Bankasi A.S. v. United States,BK,https://www.supremecourt.gov/opinions/22pdf/598us1r13_3e04.pdf,8494,26,3,6,0,0,0,0,0
+4/19/23,21-442,Reed v. Goertz,BK,https://www.supremecourt.gov/opinions/22pdf/598us1r12_l5gm.pdf,12246,36,36,1,0,0,0,0,0
+4/18/23,"156, Orig.",New York v. New Jersey,BK,https://www.supremecourt.gov/opinions/22pdf/598us1r11_ca7d.pdf,4067,14,0,1,0,0,0,0,0
+4/14/23,21-86,"Axon Enterprise, Inc. v. FTC",EK,https://www.supremecourt.gov/opinions/22pdf/598us1r10_febh.pdf,15611,45,7,28,0,0,0,0,0
+3/28/23,21-1164,Wilkins v. United States,SS,https://www.supremecourt.gov/opinions/22pdf/598us1r9_8mjp.pdf,8411,25,21,1,0,0,0,0,0
+3/21/23,21-887,Luna Perez v. Sturgis Public Schools,NG,https://www.supremecourt.gov/opinions/22pdf/598us1r8_limq.pdf,3581,12,1,1,0,0,0,0,0
+2/28/23,"145, Orig.",Delaware v. Pennsylvania,KJ,https://www.supremecourt.gov/opinions/22pdf/598us1r7_3dq4.pdf,9489,29,0,0,0,0,0,0,0
+2/28/23,21-1195,Bittner v. United States,NG,https://www.supremecourt.gov/opinions/22pdf/598us1r6_0813.pdf,10836,32,25,1,0,0,0,0,0
+2/22/23,21-908,Bartenwerfer v. Buckley,AB,https://www.supremecourt.gov/opinions/22pdf/598us1r5_1b72.pdf,5616,18,0,4,0,0,0,0,0
+2/22/23,21-984,"Helix Energy Solutions Group, Inc. v. Hewitt",EK,https://www.supremecourt.gov/opinions/22pdf/598us1r4_1a7d.pdf,11131,32,25,0,0,0,0,0,0
+2/22/23,21-846,Cruz v. Arizona,SS,https://www.supremecourt.gov/opinions/22pdf/598us1r3_j4ek.pdf,8079,24,16,2,0,0,0,0,1
+1/23/23,21-1397,In re Grand Jury,PC,https://www.supremecourt.gov/opinions/22pdf/598us1r2_d18e.pdf,552,4,0,0,0,0,0,0,0
+1/23/23,21-432,Arellano v. McDonough,AB,https://www.supremecourt.gov/opinions/22pdf/598us1r1_3e04.pdf,4953,16,0,1,0,0,0,0,0
+8/16/24,24A78,Department of Education v. Louisiana,PC,https://www.supremecourt.gov/opinions/23pdf/603us1r60_32q3.pdf,3601,13,12,0,2,0,0,0,0
+7/01/24,22-1008,"Corner Post, Inc. v. Board of Governors",AB,https://www.supremecourt.gov/opinions/23pdf/603us1r59_4fci.pdf,25032,69,61,25,0,0,0,0,0
+7/01/24,22-277,"Moody v. NetChoice, LLC",EK,https://www.supremecourt.gov/opinions/23pdf/603us1r58_8mj9.pdf,32320,94,4,92,130,0,0,0,0
+7/01/24,23-939,Trump v. United States,R,https://www.supremecourt.gov/opinions/23pdf/603us1r57_2dp3.pdf,39935,116,97,48,2,0,2,0,0
+6/28/24,23-175,City of Grants Pass v. Johnson,NG,https://www.supremecourt.gov/opinions/23pdf/603us1r56_1bo2.pdf,26109,75,87,10,1,2,0,1,54
+6/28/24,23-5572,Fischer v. United States,R,https://www.supremecourt.gov/opinions/23pdf/603us1r55_6j36.pdf,13978,42,34,16,1,0,0,0,0
+6/28/24,22-451,Loper Bright Enterprises v. Raimondo,R,https://www.supremecourt.gov/opinions/23pdf/603us1r54_o7jp.pdf,40369,113,85,67,0,0,0,0,0
+6/27/24,23-726,Moyle v. United States,PC,https://www.supremecourt.gov/opinions/23pdf/603us1r53_l5gm.pdf,15774,47,37,34,0,0,0,0,0
+6/27/24,23A349,Ohio v. Environmental Protection Agency,NG,https://www.supremecourt.gov/opinions/23pdf/603us1r52_d18f.pdf,16221,47,38,5,0,0,0,0,0
+6/27/24,23-124,Harrington v. Purdue Pharma L.P.,NG,https://www.supremecourt.gov/opinions/23pdf/603us1r51_1b8e.pdf,26012,77,86,2,0,0,0,0,0
+6/27/24,22-859,SEC v. Jarkesy,R,https://www.supremecourt.gov/opinions/23pdf/603us1r50_7kh7.pdf,34340,97,115,72,1,1,3,0,0
+6/26/24,23-411,Murthy v. Missouri,AB,https://www.supremecourt.gov/opinions/23pdf/603us1r49_n6io.pdf,23040,68,51,0,13,0,0,0,0
+6/26/24,23-108,Snyder v. United States,BK,https://www.supremecourt.gov/opinions/23pdf/603us1r48_g3ci.pdf,14996,44,29,4,0,0,0,0,0
+6/21/24,"141, Orig.",Texas v. New Mexico,KJ,https://www.supremecourt.gov/opinions/23pdf/602us1r47_c07d.pdf,16843,50,37,0,0,0,0,0,0
+6/21/24,23-334,Department of State v. Munoz,AB,https://www.supremecourt.gov/opinions/23pdf/602us1r46_gfbi.pdf,15775,46,42,10,7,0,3,0,0
+6/21/24,23-370,Erlinger v. United States,NG,https://www.supremecourt.gov/opinions/23pdf/602us1r45_h31i.pdf,27500,80,99,36,0,0,2,54,1
+6/21/24,22-899,Smith v. Arizona,EK,https://www.supremecourt.gov/opinions/23pdf/602us1r44_kjfm.pdf,14968,44,9,43,0,1,1,6,0
+6/21/24,22-915,United States v. Rahimi,R,https://www.supremecourt.gov/opinions/23pdf/602us1r43_p860.pdf,34523,101,83,88,6,0,0,5,1
+6/20/24,22-1025,Gonzalez v. Trevino,PC,https://www.supremecourt.gov/opinions/23pdf/602us1r42_l5gm.pdf,9318,29,9,27,7,0,0,0,0
+6/20/24,22-800,Moore v. United States,BK,https://www.supremecourt.gov/opinions/23pdf/602us1r41_h3dj.pdf,28294,83,45,30,0,0,2,0,0
+6/20/24,23-50,Chiaverini v. City of Napoleon,EK,https://www.supremecourt.gov/opinions/23pdf/602us1r40_f20g.pdf,5787,18,16,3,0,49,0,0,0
+6/20/24,23-14,Diaz v. United States,T,https://www.supremecourt.gov/opinions/23pdf/602us1r39_2b8e.pdf,10519,32,24,8,0,0,0,0,0
+6/14/24,22-1238,"United States Trustee v. John Q. Hammons Fall 2006, LLC",KJ,https://www.supremecourt.gov/opinions/23pdf/602us1r38_mlho.pdf,14003,41,46,6,0,0,0,0,0
+6/14/24,22-674,Campos-Chaves v. Garland,A,https://www.supremecourt.gov/opinions/23pdf/602us1r37_7khn.pdf,14063,42,26,0,0,0,0,0,0
+6/14/24,22-976,Garland v. Cargill,T,https://www.supremecourt.gov/opinions/23pdf/602us1r36_k537.pdf,13974,43,40,8,0,0,0,0,0
+6/13/24,23-235,FDA v. Alliance for Hippocratic Medicine,BK,https://www.supremecourt.gov/opinions/23pdf/602us1r35_h3ci.pdf,14072,41,2,18,0,0,0,0,0
+6/13/24,23-367,Starbucks Corp. v. McKinney,T,https://www.supremecourt.gov/opinions/23pdf/602us1r34_e29g.pdf,10028,30,8,11,0,0,0,0,0
+6/13/24,22-704,Vidal v. Elster,T,https://www.supremecourt.gov/opinions/23pdf/602us1r33_qqm4.pdf,18809,55,3,58,67,0,0,0,0
+6/06/24,22-1079,Truck Insurance Exchange v. Kaiser Gypsum Co.,SS,https://www.supremecourt.gov/opinions/23pdf/602us1r32_2q24.pdf,6402,20,0,0,0,0,0,0,0
+6/06/24,23-146,Connelly v. United States,T,https://www.supremecourt.gov/opinions/23pdf/602us1r31_6537.pdf,4078,13,0,0,0,0,0,0,0
+6/06/24,23-250,Becerra v. San Carlos Apache Tribe,R,https://www.supremecourt.gov/opinions/23pdf/602us1r30_g3bi.pdf,11866,37,20,1,0,0,0,0,0
+5/30/24,22-529,"Cantero v. Bank of America, N. A.",BK,https://www.supremecourt.gov/opinions/23pdf/602us1r29_0861.pdf,6411,19,0,0,0,0,0,0,0
+5/30/24,22-842,National Rifle Association of America v. Vullo,SS,https://www.supremecourt.gov/opinions/23pdf/602us1r28_9o6b.pdf,10653,32,0,10,53,0,0,0,0
+5/30/24,22-982,Thornell v. Jones,A,https://www.supremecourt.gov/opinions/23pdf/602us1r27_jhek.pdf,7435,23,12,1,0,0,0,2,0
+5/23/24,23-3,Coinbase v. Suski,KJ,https://www.supremecourt.gov/opinions/23pdf/602us1r26_k537.pdf,3860,13,0,5,0,0,0,0,0
+5/23/24,22-6389,Brown v. United States,A,https://www.supremecourt.gov/opinions/23pdf/602us1r25_p86b.pdf,14568,44,34,2,0,0,0,0,0
+5/23/24,22-807,Alexander v. South Carolina State Conference of the NAACP,A,https://www.supremecourt.gov/opinions/23pdf/602us1r24_j4ek.pdf,34288,102,90,40,0,0,0,0,0
+5/16/24,23-21,Harrow v. Department of Defense,EK,https://www.supremecourt.gov/opinions/23pdf/601us2r23_khlp.pdf,4113,13,0,0,0,0,0,0,0
+5/16/24,22-1218,Smith v. Spizzirri,SS,https://www.supremecourt.gov/opinions/23pdf/601us2r22_o7jq.pdf,2920,10,0,0,0,0,0,0,0
+5/16/24,22-448,"Consumer Financial Protection Bureau v. Community Financial Services Assn. of America, Ltd.",T,https://www.supremecourt.gov/opinions/23pdf/601us2r21_7648.pdf,19556,58,52,20,0,0,0,0,0
+5/09/24,22-585,Culley v. Marshall,BK,https://www.supremecourt.gov/opinions/23pdf/601us2r20_09m1.pdf,13789,41,22,17,0,5,0,0,0
+5/09/24,22-1078,"Warner Chappell Music, Inc. v. Nealy",EK,https://www.supremecourt.gov/opinions/23pdf/601us2r19_jifl.pdf,4044,13,5,0,0,0,0,0,0
+4/17/24,22-193,Muldrow v. City of St. Louis,EK,https://www.supremecourt.gov/opinions/23pdf/601us2r18_6j37.pdf,7241,22,0,13,0,0,0,0,0
+4/17/24,22-7386,McIntosh v. United States,SS,https://www.supremecourt.gov/opinions/23pdf/601us2r17_nmio.pdf,5757,18,0,0,0,0,0,0,0
+4/16/24,22-888,Rudisill v. McDonough,KJ,https://www.supremecourt.gov/opinions/23pdf/601us2r16_2dp3.pdf,12571,38,24,21,0,0,0,0,0
+4/16/24,22-913,DeVillier v. Texas,T,https://www.supremecourt.gov/opinions/23pdf/601us2r15_apl1.pdf,3075,11,0,0,0,0,8,0,0
+4/12/24,22-1074,Sheetz v. El Dorado County,AB,https://www.supremecourt.gov/opinions/23pdf/601us2r14_00m5.pdf,6440,20,0,11,0,0,5,0,0
+4/12/24,22-1165,"Macquarie Infrastructure Corp. v. Moab Partners, L. P.",SS,https://www.supremecourt.gov/opinions/23pdf/601us2r13_8mjp.pdf,3852,12,0,0,0,0,0,0,0
+4/12/24,23-51,"Bissonnette v. LePage Bakeries Park St., LLC",R,https://www.supremecourt.gov/opinions/23pdf/601us2r12_7648.pdf,4247,13,2,0,0,0,0,0,0
+3/19/24,22-1178,FBI v. Fikre,NG,https://www.supremecourt.gov/opinions/23pdf/601us1r11_7lh8.pdf,4627,14,0,3,0,0,0,0,0
+3/19/24,22-666,Wilkinson v. Garland,SS,https://www.supremecourt.gov/opinions/23pdf/601us1r10_k5fm.pdf,8777,27,17,4,0,0,0,0,0
+3/15/24,22-324,O’Connor-Ratcliff v. Garnier,PC,https://www.supremecourt.gov/opinions/23pdf/601us1r09_hgci.pdf,1502,6,0,0,2,0,0,0,0
+3/15/24,22-611,Lindke v. Freed,AB,https://www.supremecourt.gov/opinions/23pdf/601us1r08_a8cf.pdf,6829,20,0,0,9,0,0,0,0
+3/15/24,22-340,Pulsifer v. United States,EK,https://www.supremecourt.gov/opinions/23pdf/601us1r07_19m1.pdf,22134,65,60,1,0,0,0,1,0
+3/04/24,23-719,Trump v. Anderson,PC,https://www.supremecourt.gov/opinions/23pdf/601us1r06_a86c.pdf,8991,26,2,12,1,0,0,0,0
+2/21/24,22-721,McElrath v. Georgia,KJ,https://www.supremecourt.gov/opinions/23pdf/601us1r05_1qm2.pdf,4539,15,0,6,0,0,6,0,0
+2/21/24,22-500,Great Lakes Ins. SE v. Raiders Retreat Realty Co.,BK,https://www.supremecourt.gov/opinions/23pdf/601us1r04_4g15.pdf,7670,24,3,14,0,0,0,0,0
+2/08/24,22-846,Department of Agriculture Rural Development Rural Housing Service v. Kirtz,NG,https://www.supremecourt.gov/opinions/23pdf/601us1r03_4gcj.pdf,8334,25,3,1,0,0,0,0,0
+2/08/24,22-660,"Murray v. UBS Securities, LLC",SS,https://www.supremecourt.gov/opinions/23pdf/601us1r02_c07d.pdf,6675,21,1,5,0,0,0,0,0
+12/05/23,22-429,"Acheson Hotels, LLC v. Laufer",AB,https://www.supremecourt.gov/opinions/23pdf/601us1r01_q86b.pdf,7910,24,5,28,0,0,0,0,0
